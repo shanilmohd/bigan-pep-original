@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "blast_db",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "/Users/mohamedshanil/Desktop/data-augmentation-amyloid/data-augmentation-amyloid/amys_uniqueAI4AMP_processedtotrain.fasta",
+  "number-of-letters": 13852,
+  "number-of-sequences": 1101,
+  "last-updated": "2024-03-11T11:44:00",
+  "number-of-volumes": 1,
+  "bytes-total": 267978,
+  "bytes-to-cache": 23970,
+  "files": [
+    "blast_db.pdb",
+    "blast_db.phr",
+    "blast_db.pin",
+    "blast_db.pot",
+    "blast_db.psq",
+    "blast_db.ptf",
+    "blast_db.pto"
+  ]
+}
